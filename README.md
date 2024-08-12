@@ -10,12 +10,10 @@ The social network is built from a dataset of news articles, where each node rep
 
 - No external libraries are required. The project is implemented using only the Python Standard Library.
 
-`main.py` applies the PageRank algorithm to the data provided in `data_path`.
-
-In order to run, you should use the following command:
+To run the PageRank algorithm on your data, use the following command:
 
 ```
 python main.py data_path
 ```
 
-- `data_path` is the path to the data containing edge and vertice information.
+- `data_path` is the file path containing the edge and vertex information for the network.
