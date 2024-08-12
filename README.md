@@ -8,7 +8,7 @@ The social network is built from a dataset of news articles, where each node rep
 
 - Python version: 3.9.13
 
-- No external libraries are required. The project is implemented using only the Python Standard Library.
+No external libraries are required. The project is implemented using only the Python Standard Library.
 
 To run the PageRank algorithm on your data, use the following command:
 
